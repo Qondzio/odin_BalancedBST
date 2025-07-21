@@ -1,0 +1,20 @@
+{
+  "name": "odin_balancedbst",
+  "version": "1.0.0",
+  "main": "BalancedBST.js",
+  "scripts": {
+    "BalancedBST":"node BalancedBST.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qondzio/odin_BalancedBST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qondzio/odin_BalancedBST/issues"
+  },
+  "homepage": "https://github.com/Qondzio/odin_BalancedBST#readme",
+  "description": ""
+}
